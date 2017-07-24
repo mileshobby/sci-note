@@ -20,3 +20,6 @@ Things i will implement:
 
 * Users
   * password_digest
+  * first_name
+  * last_name
+  * email
