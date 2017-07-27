@@ -23,3 +23,9 @@ Things i will implement:
   * first_name
   * last_name
   * email
+
+
+TODO:
+
+* Mailer
+* Social log in?
